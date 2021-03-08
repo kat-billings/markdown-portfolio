@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+__Skills:__
+* HTML
+* *Learning:* CSS and Javascript
+* Graphic Design and Illustration
